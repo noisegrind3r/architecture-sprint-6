@@ -24,4 +24,4 @@
   
    Шардирование данных пока не вижу необходимости использовать.
 
- [Ссылка на схему](https://github.com/noisegrind3r/architecture-sprint-6/blob/sprint_6/Exc1/InureTech_технологическая архитектура_to-be.png)
+ [Ссылка на схему](https://github.com/noisegrind3r/architecture-sprint-6/blob/sprint_6/Exc1/InureTech_технологическая_архитектура_to-be.png)
